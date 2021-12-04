@@ -1,2 +1,2 @@
-# EDA-ON-FLIPKART-SALES-PRICE
-EDA With Removing Outliers
+# EDA-ON-FLIPKART-SALES
+Exploratory data analysis on flipkart mobile sales.
